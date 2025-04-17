@@ -1,6 +1,20 @@
 # PyBo
 Python for Life Scientists at the University of Bonn. This course is offered by the [Molecular Plant Sciences](https://www.mps.uni-bonn.de) group.
 
+## Topics covered
+- Variable types
+- Comments in Python
+- Functions
+- If / elif / else
+- For and while loops
+- File handling
+- Importing modules
+- Integration of Artificial Intelligence
+
+## Individual projects
+Participants apply their newly acquired skills by working on an individual project in a life science context.
+
+
 This course is constantly updated to reflect latest developments. There are GitHub repositories containing previous versions of this course:
 - [Original Python course offered at Bielefeld University](https://github.com/bpucker/APPLS).
 - [Python course offered at TU Braunschweig](https://github.com/bpucker/PythonTUBS).
